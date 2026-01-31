@@ -1,8 +1,10 @@
 # Scale-OSPO
 
-**Article:** Zijian Zhao, Sen Li*, "Scale-OSPO: Efficient Order Dispatch on Ride-Sharing Platform via One-Step Policy Optimization and Single Parameter Tuning" (under way)
+**Article:** Zijian Zhao, Sen Li*, "OSPO: One-Step Policy Optimization for Real-Time Order Assignment on Ride-Sharing Platforms with Autonomous Vehicles" (under review)
 
-Expanded version of [RS2002/Scale-OSPO: Official Repository for The Paper, Scale-OSPO: Efficient Order Dispatch on Ride-Sharing Platform via One-Step Policy Optimization and Single Parameter Tuning](https://github.com/RS2002/Scale-OSPO).
+Expanded version of [RS2002/OSPO: Official Repository for The Paper, One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms](https://github.com/RS2002/OSPO)
+
+
 
 ## 1. Workflow
 
@@ -10,9 +12,11 @@ Expanded version of [RS2002/Scale-OSPO: Official Repository for The Paper, Scale
 
 <img src="./img/network.png" style="zoom:48%;" />
 
+
+
 ## 2. Simulator
 
-Please refer to [RS2002/Scale-OSPO: Official Repository for The Paper, Scale-OSPO: Efficient Order Dispatch on Ride-Sharing Platform via One-Step Policy Optimization and Single Parameter Tuning](https://github.com/RS2002/Scale-OSPO).
+Please refer to [RS2002/OSPO: Official Repository for The Paper, One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms](https://github.com/RS2002/OSPO).
 
 
 
