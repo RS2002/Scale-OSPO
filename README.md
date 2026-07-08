@@ -2,8 +2,6 @@
 
 **Article:** Zijian Zhao, Sen Li*, "OSPO: One-Step Policy Optimization for Real-Time Order Assignment on Ride-Sharing Platforms with Autonomous Vehicles" (under review)
 
-Expanded version of [RS2002/OSPO: Official Repository for The Paper, One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms](https://github.com/RS2002/OSPO)
-
 
 
 ## 1. Workflow
